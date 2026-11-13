@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://styleboltfitness-alt.github.io/styleboltfitness-web/sitemap.xml
